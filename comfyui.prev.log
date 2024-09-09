@@ -1,325 +1,0 @@
-## ComfyUI-Manager: installing dependencies done.
-[2024-09-06 17:45] ** ComfyUI startup time: 2024-09-06 17:45:12.542891
-[2024-09-06 17:45] ** Platform: Windows
-[2024-09-06 17:45] ** Python version: 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
-[2024-09-06 17:45] ** Python executable: C:\Project\SD\ComfyFlux\python_embeded\python.exe
-[2024-09-06 17:45] ** ComfyUI Path: C:\Project\SD\ComfyFlux\ComfyUI
-[2024-09-06 17:45] ** Log path: C:\Project\SD\ComfyFlux\comfyui.log
-[2024-09-06 17:45] 
-Prestartup times for custom nodes:
-[2024-09-06 17:45]    0.0 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\rgthree-comfy
-[2024-09-06 17:45]    0.0 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI-Easy-Use
-[2024-09-06 17:45]    1.2 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI-Manager
-[2024-09-06 17:45] 
-Total VRAM 24564 MB, total RAM 65277 MB
-[2024-09-06 17:45] pytorch version: 2.3.1+cu121
-[2024-09-06 17:45] Set vram state to: NORMAL_VRAM
-[2024-09-06 17:45] Device: cuda:0 NVIDIA GeForce RTX 4090 : cudaMallocAsync
-[2024-09-06 17:45] Using pytorch cross attention
-[2024-09-06 17:45] [Prompt Server] web root: C:\Project\SD\ComfyFlux\ComfyUI\web
-[2024-09-06 17:45] Adding C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes to sys.path
-[2024-09-06 17:45] [36mEfficiency Nodes:[0m Attempting to add Control Net options to the 'HiRes-Fix Script' Node (comfyui_controlnet_aux add-on)...[92mSuccess![0m
-[2024-09-06 17:45] Loaded Efficiency nodes from C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\efficiency-nodes-comfyui
-[2024-09-06 17:45] Loaded ControlNetPreprocessors nodes from C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\comfyui_controlnet_aux
-[2024-09-06 17:45] Loaded AdvancedControlNet nodes from C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI-Advanced-ControlNet
-[2024-09-06 17:45] Could not find AnimateDiff nodes
-[2024-09-06 17:45] Loaded IPAdapter nodes from C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI_IPAdapter_plus
-[2024-09-06 17:45] Could not find VideoHelperSuite nodes
-[2024-09-06 17:45] ### Loading: ComfyUI-Impact-Pack (V6.2)
-[2024-09-06 17:45] [WARN] ComfyUI-Impact-Pack: custom_wildcards path not found: C:\Project\SD\ComfyUI_windows_portable\ComfyUI\custom_nodes\ComfyUI-Impact-Pack\custom_wildcards. Using default path.
-[2024-09-06 17:45] ### Loading: ComfyUI-Impact-Pack (Subpack: V0.6)
-[2024-09-06 17:45] ### Loading: ComfyUI-Impact-Pack (V6.2)
-[2024-09-06 17:45] Loaded ImpactPack nodes from C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI-Impact-Pack
-[2024-09-06 17:45] [Impact Pack] Wildcards loading done.
-[2024-09-06 17:45] [Impact Pack] Wildcards loading done.
-[2024-09-06 17:45] [Crystools [0;32mINFO[0m] Crystools version: 1.16.6
-[2024-09-06 17:45] [Crystools [0;32mINFO[0m] CPU: 13th Gen Intel(R) Core(TM) i7-13700K - Arch: AMD64 - OS: Windows 10
-[2024-09-06 17:45] [Crystools [0;32mINFO[0m] Pynvml (Nvidia) initialized.
-[2024-09-06 17:45] [Crystools [0;32mINFO[0m] GPU/s:
-[2024-09-06 17:45] [Crystools [0;32mINFO[0m] 0) NVIDIA GeForce RTX 4090
-[2024-09-06 17:45] [Crystools [0;32mINFO[0m] NVIDIA Driver: 555.99
-[2024-09-06 17:45] [34mComfy-Easy-Use v1.2.2: [92mLoaded[0m
-[2024-09-06 17:45] ### Loading: ComfyUI-Impact-Pack (V6.2)
-[2024-09-06 17:45] [Impact Pack] Wildcards loading done.
-[2024-09-06 17:45] ### Loading: ComfyUI-Inspire-Pack (V0.84)
-[2024-09-06 17:45] Total VRAM 24564 MB, total RAM 65277 MB
-[2024-09-06 17:45] pytorch version: 2.3.1+cu121
-[2024-09-06 17:45] Set vram state to: NORMAL_VRAM
-[2024-09-06 17:45] Device: cuda:0 NVIDIA GeForce RTX 4090 : cudaMallocAsync
-[2024-09-06 17:45] ### Loading: ComfyUI-Manager (V2.48.8)
-[2024-09-06 17:45] ### ComfyUI Revision: 2425 [c24f8973] | Released on '2024-07-31'
-[2024-09-06 17:45] C:\Project\SD\ComfyFlux
-[2024-09-06 17:45] ############################################
-[2024-09-06 17:45] C:\Project\SD\ComfyFlux\custom_nodes\ComfyUI-NAI-styler\CSV
-[2024-09-06 17:45] ############################################
-[2024-09-06 17:45] []
-[2024-09-06 17:45] ############################################
-[2024-09-06 17:45] ------------------------------------------
-[2024-09-06 17:45] [34mComfyroll Studio v1.76 : [92m 175 Nodes Loaded[0m
-[2024-09-06 17:45] ------------------------------------------
-[2024-09-06 17:45] ** For changes, please see patch notes at https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes/blob/main/Patch_Notes.md
-[2024-09-06 17:45] ** For help, please see the wiki at https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes/wiki
-[2024-09-06 17:45] ------------------------------------------
-[2024-09-06 17:45] LOADED 6 FONTS
-[2024-09-06 17:45] No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
-[2024-09-06 17:45] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/alter-list.json
-[2024-09-06 17:45] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/github-stats.json
-[2024-09-06 17:45] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/model-list.json
-[2024-09-06 17:45] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/extension-node-map.json
-[2024-09-06 17:45] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/custom-node-list.json
-[2024-09-06 17:45] 
-
-███╗   ███╗ █████╗  ██████╗██╗  ██╗██╗███╗   ██╗███████╗               
-████╗ ████║██╔══██╗██╔════╝██║  ██║██║████╗  ██║██╔════╝               
-██╔████╔██║███████║██║     ███████║██║██╔██╗ ██║█████╗                 
-██║╚██╔╝██║██╔══██║██║     ██╔══██║██║██║╚██╗██║██╔══╝                 
-██║ ╚═╝ ██║██║  ██║╚██████╗██║  ██║██║██║ ╚████║███████╗               
-╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝               
-                                                                       
-██████╗ ███████╗██╗     ██╗   ██╗███████╗██╗ ██████╗ ███╗   ██╗███████╗
-██╔══██╗██╔════╝██║     ██║   ██║██╔════╝██║██╔═══██╗████╗  ██║██╔════╝
-██║  ██║█████╗  ██║     ██║   ██║███████╗██║██║   ██║██╔██╗ ██║███████╗
-██║  ██║██╔══╝  ██║     ██║   ██║╚════██║██║██║   ██║██║╚██╗██║╚════██║
-██████╔╝███████╗███████╗╚██████╔╝███████║██║╚██████╔╝██║ ╚████║███████║
-╚═════╝ ╚══════╝╚══════╝ ╚═════╝ ╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝
-                                                                       
-
-[2024-09-06 17:45] 
-[2024-09-06 17:45] # 😺dzNodes: LayerStyle -> [1;33mCannot import name 'guidedFilter' from 'cv2.ximgproc'
-A few nodes cannot works properly, while most nodes are not affected. Please REINSTALL package 'opencv-contrib-python'.
-For detail refer to [4mhttps://github.com/chflame163/ComfyUI_LayerStyle/issues/5[0m[m
-[2024-09-06 17:45] # 😺dzNodes: LayerStyle -> [1;33mWarning: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI_LayerStyle\resource_dir.ini not found, default directory to be used. [m
-[2024-09-06 17:45] # 😺dzNodes: LayerStyle -> [1;33mFind 1 LUTs in C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI_LayerStyle\lut[m
-[2024-09-06 17:45] # 😺dzNodes: LayerStyle -> [1;33mFind 1 Fonts in C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI_LayerStyle\font[m
-[2024-09-06 17:45] A new version of Albumentations is available: 1.4.14 (you have 1.4.13). Upgrade using: pip install -U albumentations. To disable automatic update checks, set the environment variable NO_ALBUMENTATIONS_UPDATE to 1.
-[2024-09-06 17:45] NetDist: Set session ID to 'gjgpc'
-[2024-09-06 17:45] 
-[2024-09-06 17:45] [92m[rgthree] Loaded 42 fantastic nodes.[00m
-[2024-09-06 17:45] [92m[rgthree] Will use rgthree's optimized recursive execution.[00m
-[2024-09-06 17:45] 
-[2024-09-06 17:45] Searge-SDXL v4.3.1 in C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\SeargeSDXL
-[2024-09-06 17:45] [34mWAS Node Suite: [0mOpenCV Python FFMPEG support is enabled[0m
-[2024-09-06 17:45] [34mWAS Node Suite [93mWarning: [0m`ffmpeg_bin_path` is not set in `C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\was-node-suite-comfyui\was_suite_config.json` config file. Will attempt to use system ffmpeg binaries if available.[0m
-[2024-09-06 17:45] [34mWAS Node Suite: [0mFinished.[0m [32mLoaded[0m [0m218[0m [32mnodes successfully.[0m
-[2024-09-06 17:45] 
-	[3m[93m"Great minds discuss ideas; average minds discuss events; small minds discuss people."[0m[3m - Eleanor Roosevelt[0m
-[2024-09-06 17:45] 
-[2024-09-06 17:45] 
-Import times for custom nodes:
-[2024-09-06 17:45]    0.0 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\example_node.py
-[2024-09-06 17:45]    0.0 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\websocket_image_save.py
-[2024-09-06 17:45]    0.0 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\sdxl-recommended-res-calc
-[2024-09-06 17:45]    0.0 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI-Adaptive-Guidance
-[2024-09-06 17:45]    0.0 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI_IPAdapter_plus
-[2024-09-06 17:45]    0.0 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\cg-use-everywhere
-[2024-09-06 17:45]    0.0 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\efficiency-nodes-comfyui
-[2024-09-06 17:45]    0.0 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI-FLUX-fal-API
-[2024-09-06 17:45]    0.0 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\comfyui_controlnet_aux
-[2024-09-06 17:45]    0.0 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI-GenData-Pack
-[2024-09-06 17:45]    0.0 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\comfyui-inpaint-nodes
-[2024-09-06 17:45]    0.0 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI_JPS-Nodes
-[2024-09-06 17:45]    0.0 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI-Florence2
-[2024-09-06 17:45]    0.0 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI_NetDist
-[2024-09-06 17:45]    0.0 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\mikey_nodes
-[2024-09-06 17:45]    0.0 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\comfy-image-saver
-[2024-09-06 17:45]    0.0 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI-Impact-Pack
-[2024-09-06 17:45]    0.0 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI_UltimateSDUpscale
-[2024-09-06 17:45]    0.0 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI-Custom-Scripts
-[2024-09-06 17:45]    0.0 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\comfyui-various
-[2024-09-06 17:45]    0.0 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI_essentials
-[2024-09-06 17:45]    0.0 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI-Universal-Styler
-[2024-09-06 17:45]    0.0 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI-Advanced-ControlNet
-[2024-09-06 17:45]    0.0 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\x-flux-comfyui
-[2024-09-06 17:45]    0.0 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\rgthree-comfy
-[2024-09-06 17:45]    0.0 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI-KJNodes
-[2024-09-06 17:45]    0.0 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI_bitsandbytes_NF4
-[2024-09-06 17:45]    0.0 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI_Comfyroll_CustomNodes
-[2024-09-06 17:45]    0.0 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI-Inspire-Pack
-[2024-09-06 17:45]    0.1 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI-IF_AI_tools
-[2024-09-06 17:45]    0.1 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI-Crystools
-[2024-09-06 17:45]    0.2 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI-Cloud-APIs
-[2024-09-06 17:45]    0.2 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI-KepOpenAI
-[2024-09-06 17:45]    0.3 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI-Manager
-[2024-09-06 17:45]    0.3 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI-Easy-Use
-[2024-09-06 17:45]    0.4 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI-clip-interrogator-main
-[2024-09-06 17:45]    0.7 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\SeargeSDXL
-[2024-09-06 17:45]    0.8 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI_Fill-Nodes
-[2024-09-06 17:45]    1.1 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\comfyui-art-venture
-[2024-09-06 17:45]    1.2 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI_LayerStyle
-[2024-09-06 17:45]    1.2 seconds: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\was-node-suite-comfyui
-[2024-09-06 17:45] 
-[2024-09-06 17:45] Starting server
-
-[2024-09-06 17:45] To see the GUI go to: http://127.0.0.1:8188
-[2024-09-06 17:45] FETCH DATA from: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI-Manager\extension-node-map.json [DONE]
-[2024-09-06 17:45] [ERROR] An error occurred while retrieving information for the 'IF_ChatPrompt' node.
-[2024-09-06 17:45] Traceback (most recent call last):
-  File "C:\Project\SD\ComfyFlux\ComfyUI\server.py", line 451, in get_object_info
-    out[x] = node_info(x)
-             ^^^^^^^^^^^^
-  File "C:\Project\SD\ComfyFlux\ComfyUI\server.py", line 425, in node_info
-    info['input'] = obj_class.INPUT_TYPES()
-                    ^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI-IF_AI_tools\IFChatPromptNode.py", line 109, in INPUT_TYPES
-    node = cls()
-           ^^^^^
-  File "C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI-IF_AI_tools\IFChatPromptNode.py", line 53, in __init__
-    self.agent_tools = self.load_agent_tools()
-                       ^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI-IF_AI_tools\IFChatPromptNode.py", line 78, in load_agent_tools
-    for filename in os.listdir(self.agents_dir):
-                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Project\\SD\\ComfyFlux\\ComfyUI\\input\\IF_AI\\presets\\agents'
-
-[2024-09-06 17:45] Error. No naistyles.csv found. Put your naistyles.csv in the custom_nodes/ComfyUI_NAI-mod/CSV directory of ComfyUI. Then press "Refresh".
-                  Your current root directory is: C:\Project\SD\ComfyFlux\ComfyUI
-            
-[2024-09-06 17:45] Error. No naistyles.csv found. Put your naistyles.csv in the custom_nodes/ComfyUI_NAI-mod/CSV directory of ComfyUI. Then press "Refresh".
-                  Your current root directory is: C:\Project\SD\ComfyFlux\ComfyUI
-            
-[2024-09-06 17:45] Error. No naistyles.csv found. Put your naistyles.csv in the custom_nodes/ComfyUI_NAI-mod/CSV directory of ComfyUI. Then press "Refresh".
-                  Your current root directory is: C:\Project\SD\ComfyFlux\ComfyUI
-            
-[2024-09-06 17:45] # 😺dzNodes: LayerStyle -> [1;33mWarning: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI_LayerStyle\custom_size.ini not found, use default size. [m
-[2024-09-06 17:45] # 😺dzNodes: LayerStyle -> [1;33mWarning: C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\ComfyUI_LayerStyle\custom_size.ini not found, use default size. [m
-[2024-09-06 17:45] ['35aae4d31bbd41caa414aab3ffe8e8a9_lora.safetensors', 'lora.safetensors']
-[2024-09-06 17:45] got prompt
-[2024-09-06 17:45] [32m[rgthree] Using rgthree's optimized recursive execution.[00m
-[2024-09-06 17:45] [32m[rgthree][00m First run patching recursive_output_delete_if_changed and recursive_will_execute.[00m
-[2024-09-06 17:45] [33m[rgthree] Note: [0mIf execution seems broken due to forward ComfyUI changes, you can disable the optimization from rgthree settings in ComfyUI.[00m
-[2024-09-06 17:45] model_path is C:\Project\SD\ComfyFlux\ComfyUI\custom_nodes\comfyui_controlnet_aux\ckpts\lllyasviel/Annotators\dpt_hybrid-midas-501f0c75.pt
-[2024-09-06 17:45] model weight dtype torch.float8_e4m3fn, manual cast: torch.bfloat16
-[2024-09-06 17:45] model_type FLUX
-[2024-09-06 17:45] Requested to load FluxClipModel_
-[2024-09-06 17:45] Loading 1 new model
-[2024-09-06 17:45] clip missing: ['text_projection.weight']
-[2024-09-06 17:45] Requested to load FluxClipModel_
-[2024-09-06 17:45] Loading 1 new model
-[2024-09-06 17:45] C:\Project\SD\ComfyFlux\ComfyUI\comfy\ldm\modules\attention.py:407: UserWarning: 1Torch was not compiled with flash attention. (Triggered internally at ..\aten\src\ATen\native\transformers\cuda\sdp_utils.cpp:455.)
-  out = torch.nn.functional.scaled_dot_product_attention(q, k, v, attn_mask=mask, dropout_p=0.0, is_causal=False)
-
-[2024-09-06 17:45] Requested to load FluxClipModel_
-[2024-09-06 17:45] Loading 1 new model
-[2024-09-06 17:45] Requested to load Flux
-[2024-09-06 17:45] Loading 1 new model
-[2024-09-06 17:46] Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [00:31<00:00,  1.29s/it]Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [00:31<00:00,  1.28s/it]
-[2024-09-06 17:46] Using pytorch attention in VAE
-[2024-09-06 17:46] Using pytorch attention in VAE
-[2024-09-06 17:46] Requested to load AutoencodingEngine
-[2024-09-06 17:46] Loading 1 new model
-[2024-09-06 17:46] Prompt executed in 57.07 seconds
-[2024-09-06 17:46] got prompt
-[2024-09-06 17:46] [32m[rgthree] Using rgthree's optimized recursive execution.[00m
-[2024-09-06 17:46] Requested to load FluxClipModel_
-[2024-09-06 17:46] Loading 1 new model
-[2024-09-06 17:46] Requested to load Flux
-[2024-09-06 17:46] Loading 1 new model
-[2024-09-06 17:49] Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [02:30<00:00,  1.35s/it]Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [02:30<00:00,  6.04s/it]
-[2024-09-06 17:49] Requested to load AutoencodingEngine
-[2024-09-06 17:49] Loading 1 new model
-[2024-09-06 17:49] Prompt executed in 164.49 seconds
-[2024-09-06 17:50] got prompt
-[2024-09-06 17:50] [32m[rgthree] Using rgthree's optimized recursive execution.[00m
-[2024-09-06 17:50] Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [00:31<00:00,  1.30s/it]Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [00:31<00:00,  1.27s/it]
-[2024-09-06 17:50] Prompt executed in 32.37 seconds
-[2024-09-06 17:51] got prompt
-[2024-09-06 17:51] [32m[rgthree] Using rgthree's optimized recursive execution.[00m
-[2024-09-06 17:51] loaded completely 9347.20131225586 9319.23095703125
-[2024-09-06 17:51] loaded completely 11399.062205505372 11350.048889160156
-[2024-09-06 17:51] Unloading models for lowram load.
-[2024-09-06 17:51] 0 models unloaded.
-[2024-09-06 17:51] Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [00:32<00:00,  1.31s/it]Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [00:32<00:00,  1.29s/it]
-[2024-09-06 17:51] Requested to load AutoencodingEngine
-[2024-09-06 17:51] Loading 1 new model
-[2024-09-06 17:51] Prompt executed in 36.37 seconds
-[2024-09-06 17:52] got prompt
-[2024-09-06 17:52] [32m[rgthree] Using rgthree's optimized recursive execution.[00m
-[2024-09-06 17:52] loaded completely 9358.466929626466 9319.23095703125
-[2024-09-06 17:52] loaded completely 11491.427378845216 11350.048889160156
-[2024-09-06 17:52] Unloading models for lowram load.
-[2024-09-06 17:52] 0 models unloaded.
-[2024-09-06 17:52] Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [00:32<00:00,  1.34s/it]Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [00:32<00:00,  1.29s/it]
-[2024-09-06 17:52] Requested to load AutoencodingEngine
-[2024-09-06 17:52] Loading 1 new model
-[2024-09-06 17:52] Prompt executed in 35.95 seconds
-[2024-09-06 17:54] got prompt
-[2024-09-06 17:54] [32m[rgthree] Using rgthree's optimized recursive execution.[00m
-[2024-09-06 17:54] loaded completely 9562.799937438966 9319.23095703125
-[2024-09-06 17:54] loaded completely 11364.536753845216 11350.048889160156
-[2024-09-06 17:54] Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [00:32<00:00,  1.33s/it]Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [00:32<00:00,  1.29s/it]
-[2024-09-06 17:54] Requested to load AutoencodingEngine
-[2024-09-06 17:54] Loading 1 new model
-[2024-09-06 17:54] Prompt executed in 35.68 seconds
-[2024-09-06 17:54] got prompt
-[2024-09-06 17:54] [32m[rgthree] Using rgthree's optimized recursive execution.[00m
-[2024-09-06 17:55] Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [00:31<00:00,  1.31s/it]Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [00:31<00:00,  1.27s/it]
-[2024-09-06 17:55] Prompt executed in 32.42 seconds
-[2024-09-06 18:30] got prompt
-[2024-09-06 18:30] [32m[rgthree] Using rgthree's optimized recursive execution.[00m
-[2024-09-06 18:30] got prompt
-[2024-09-06 18:30] got prompt
-[2024-09-06 18:30] loaded completely 9345.614390563966 9319.23095703125
-[2024-09-06 18:30] loaded partially 11341.071910095216 11332.043029785156 0
-[2024-09-06 18:30] loaded partially 11334.395945739747 11332.043029785156 0
-[2024-09-06 18:31] Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [00:33<00:00,  1.37s/it]Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [00:33<00:00,  1.32s/it]
-[2024-09-06 18:31] Requested to load AutoencodingEngine
-[2024-09-06 18:31] Loading 1 new model
-[2024-09-06 18:31] Prompt executed in 38.36 seconds
-[2024-09-06 18:31] [32m[rgthree] Using rgthree's optimized recursive execution.[00m
-[2024-09-06 18:31] loaded completely 14250.888005447388 11350.048889160156
-[2024-09-06 18:31] Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [00:31<00:00,  1.30s/it]Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [00:31<00:00,  1.28s/it]
-[2024-09-06 18:31] Prompt executed in 32.42 seconds
-[2024-09-06 18:31] [32m[rgthree] Using rgthree's optimized recursive execution.[00m
-[2024-09-06 18:32] Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [00:31<00:00,  1.30s/it]Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [00:31<00:00,  1.26s/it]
-[2024-09-06 18:32] Prompt executed in 32.14 seconds
-[2024-09-06 18:33] got prompt
-[2024-09-06 18:33] [32m[rgthree] Using rgthree's optimized recursive execution.[00m
-[2024-09-06 18:33] got prompt
-[2024-09-06 18:33] got prompt
-[2024-09-06 18:33] got prompt
-[2024-09-06 18:33] loaded completely 9534.309703063966 9319.23095703125
-[2024-09-06 18:33] loaded completely 11438.626597595216 11350.048889160156
-[2024-09-06 18:33] Unloading models for lowram load.
-[2024-09-06 18:33] 0 models unloaded.
-[2024-09-06 18:33] Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [00:34<00:00,  1.38s/it]Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [00:34<00:00,  1.36s/it]
-[2024-09-06 18:33] Requested to load AutoencodingEngine
-[2024-09-06 18:33] Loading 1 new model
-[2024-09-06 18:33] Prompt executed in 39.64 seconds
-[2024-09-06 18:33] [32m[rgthree] Using rgthree's optimized recursive execution.[00m
-[2024-09-06 18:34] Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [00:31<00:00,  1.30s/it]Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [00:31<00:00,  1.28s/it]
-[2024-09-06 18:34] Prompt executed in 32.48 seconds
-[2024-09-06 18:34] [32m[rgthree] Using rgthree's optimized recursive execution.[00m
-[2024-09-06 18:34] got prompt
-[2024-09-06 18:34] got prompt
-[2024-09-06 18:34] got prompt
-[2024-09-06 18:34] Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [00:32<00:00,  1.30s/it]Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [00:32<00:00,  1.31s/it]
-[2024-09-06 18:34] Prompt executed in 33.18 seconds
-[2024-09-06 18:34] [32m[rgthree] Using rgthree's optimized recursive execution.[00m
-[2024-09-06 18:35] Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [00:31<00:00,  1.30s/it]Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [00:31<00:00,  1.27s/it]
-[2024-09-06 18:35] Prompt executed in 32.32 seconds
-[2024-09-06 18:35] [32m[rgthree] Using rgthree's optimized recursive execution.[00m
-[2024-09-06 18:35] Requested to load FluxClipModel_
-[2024-09-06 18:35] Loading 1 new model
-[2024-09-06 18:35] loaded completely 9.5367431640625e+25 9319.23095703125
-[2024-09-06 18:35] Requested to load Flux
-[2024-09-06 18:35] Loading 1 new model
-[2024-09-06 18:35] got prompt
-[2024-09-06 18:36] Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [01:03<00:00,  2.40s/it]Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [01:03<00:00,  2.53s/it]
-[2024-09-06 18:36] Requested to load AutoencodingEngine
-[2024-09-06 18:36] Loading 1 new model
-[2024-09-06 18:36] Prompt executed in 79.37 seconds
-[2024-09-06 18:36] [32m[rgthree] Using rgthree's optimized recursive execution.[00m
-[2024-09-06 18:37] Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [00:41<00:00,  1.52s/it]Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [00:41<00:00,  1.65s/it]
-[2024-09-06 18:37] Unloading models for lowram load.
-[2024-09-06 18:37] 0 models unloaded.
-[2024-09-06 18:37] Prompt executed in 42.37 seconds
-[2024-09-06 18:37] [32m[rgthree] Using rgthree's optimized recursive execution.[00m
-[2024-09-06 18:38] Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [00:36<00:00,  1.41s/it]Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [00:36<00:00,  1.47s/it]
-[2024-09-06 18:38] Prompt executed in 38.12 seconds
-[2024-09-06 18:38] [32m[rgthree] Using rgthree's optimized recursive execution.[00m
-[2024-09-06 18:38] loaded partially 9264.952281188966 9068.23095703125 0
-[2024-09-06 18:38] loaded completely 11361.347361755372 11350.048889160156
-[2024-09-06 18:39] Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [01:04<00:00,  2.64s/it]Sampling: 100%|████████████████████████████████████████████████████████████████████████| 25/25 [01:04<00:00,  2.57s/it]
-[2024-09-06 18:39] Requested to load AutoencodingEngine
-[2024-09-06 18:39] Loading 1 new model
-[2024-09-06 18:39] Prompt executed in 73.79 seconds
